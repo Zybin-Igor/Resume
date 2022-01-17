@@ -1,0 +1,27 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #E5E5E5;  
+}
+li {
+  background-color:#fff;
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+   
+
+}
+.about-me-section {
+  color:#595959;
+  font-size: 14px;
+  line-height: 24px;
+}
+.about-me-profession { 
+  color: #000;
+  font-size: 14px;
+  line-height: 17,07px;
+}
+.my-first-second-name {
+  color:#000;
+  font-size: 45px;
+  line-height: 54,86px;
+}
